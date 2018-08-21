@@ -4,16 +4,13 @@
   "private": true,
   "description": "React package for testing the Fiber reconciler.",
   "main": "index.js",
-  "repository": "facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.2",
     "regenerator-runtime": "^0.11.0",
     "react-reconciler": "*"
-  },
-  "peerDependencies": {
-    "react": "^16.0.0"
   },
   "files": [
     "LICENSE",

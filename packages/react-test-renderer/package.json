@@ -3,7 +3,7 @@
   "version": "16.4.3-alpha.0",
   "description": "React package for snapshot testing.",
   "main": "index.js",
-  "repository": "facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "keywords": [
     "react",
     "react-native",
@@ -18,9 +18,6 @@
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.2",
     "react-is": "^16.4.3-alpha.0"
-  },
-  "peerDependencies": {
-    "react": "^16.0.0"
   },
   "files": [
     "LICENSE",

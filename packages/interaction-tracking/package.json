@@ -16,7 +16,7 @@
     "tracking",
     "react"
   ],
-  "repository": "https://github.com/facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "bugs": {
     "url": "https://github.com/facebook/react/issues"
   },

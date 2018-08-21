@@ -16,7 +16,7 @@
     "umd/"
   ],
   "main": "index.js",
-  "repository": "facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "engines": {
     "node": ">=0.10.0"
   },

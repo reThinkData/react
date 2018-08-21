@@ -4,7 +4,7 @@
   "private": true,
   "description": "unstable scheduling helper for coordinating React and other JS libraries",
   "main": "index.js",
-  "repository": "facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "license": "MIT",
   "keywords": [
     "react"

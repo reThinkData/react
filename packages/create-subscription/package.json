@@ -2,7 +2,7 @@
   "name": "create-subscription",
   "description": "utility for subscribing to external data sources inside React components",
   "version": "16.4.3-alpha.0",
-  "repository": "facebook/react",
+  "repository": "https://github.com/reThinkData/react.git",
   "files": [
     "LICENSE",
     "README.md",
